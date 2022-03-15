@@ -1,5 +1,6 @@
 # Dev-Tool-Helpers
-A repo with usefull scripts, .batch files etc.
+A repo with simple usefull scripts, .batch files etc.
+
 ## Windows Features
 | Feature  | Type | Description |
 |----------|:-------------:|:-------------|
