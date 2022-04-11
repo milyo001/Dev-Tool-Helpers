@@ -1,4 +1,4 @@
-# Dev-Tool-Helpers
+# Dev-Tools-Scripts
 A repo with simple usefull scripts, .batch files etc.
 
 ## Windows Features
