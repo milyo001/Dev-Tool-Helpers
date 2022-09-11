@@ -1,5 +1,6 @@
 # Dev-Tools-Scripts
 A repo with simple usefull scripts, .batch files etc.
+Important: Run command-line shell (CMD/Powershell/Bash etc.) as ADMIN
 
 ## Windows Features
 | Feature  | Type | Description |
